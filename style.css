@@ -15,7 +15,7 @@ body {
 
 .banner-text {
     position: absolute;
-    top: 10%;
+
     color: aliceblue;
     text-align: center;
     padding-left: 12%;
@@ -109,7 +109,7 @@ body {
     border-bottom: 3px solid rgb(54, 50, 50);
     text-align: center;
     font-size: 25px;
-    margin-left: 700px;
+    margin-left: 500px;
 }
 
 #button2-id {
@@ -250,7 +250,7 @@ section {
     width: 900px;
     height: 300px;
     background-color: burlywood;
-    margin-left: 400px;
+    margin-left: 200px;
 }
 
 .searchbox {
