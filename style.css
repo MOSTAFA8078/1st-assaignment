@@ -15,7 +15,7 @@ body {
 
 .banner-text {
     position: absolute;
-
+    top: 10px;
     color: aliceblue;
     text-align: center;
     padding-left: 12%;
